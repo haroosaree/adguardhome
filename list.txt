@@ -1,0 +1,7 @@
+||steampowered.com^
+||steamcommunity.com^
+||steamgames.com^
+||steamusercontent.com^
+||steamstatic.com^
+||valve corporation.com^
+||valvesoftware.com^
