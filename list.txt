@@ -3,5 +3,5 @@
 ||steamgames.com^
 ||steamusercontent.com^
 ||steamstatic.com^
-||valve corporation.com^
+||valvecorporation.com^
 ||valvesoftware.com^
